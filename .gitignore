@@ -8,7 +8,9 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
-/[Pp]ackages/
+/[Pp]ackages
+/[Ll]ibrary/
+/app.app/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
